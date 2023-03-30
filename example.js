@@ -1,4 +1,4 @@
-const PdfGenerator = require("index.js");
+const PdfGenerator = require("./index");
 const express = require('express');
 const multer  = require('multer');
 const fs = require('fs');
