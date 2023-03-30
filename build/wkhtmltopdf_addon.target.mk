@@ -170,8 +170,7 @@ LIBTOOLFLAGS_Release := \
 	-Wl,-no_pie \
 	-Wl,-search_paths_first
 
-LIBS := \
-	-lwkhtmltox
+LIBS :=
 
 $(builddir)/wkhtmltopdf_addon.node: GYP_LDFLAGS := $(LDFLAGS_$(BUILDTYPE))
 $(builddir)/wkhtmltopdf_addon.node: LIBS := $(LIBS)

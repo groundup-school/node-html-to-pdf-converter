@@ -8,8 +8,7 @@ Release/obj.target/wkhtmltopdf_addon/native_files/napi_wkhtmltopdf_binding.o: \
   /Users/clufter/Library/Caches/node-gyp/14.20.0/include/node/node_api_types.h \
   /Users/clufter/Desktop/test/library/node_addon/node_modules/node-addon-api/napi-inl.h \
   /Users/clufter/Desktop/test/library/node_addon/node_modules/node-addon-api/napi-inl.deprecated.h \
-  /usr/local/include/wkhtmltox/pdf.h \
-  /usr/local/include/wkhtmltox/dllbegin.inc \
+  ../native_files/pdf.h ../native_files/dllbegin.inc \
   /usr/local/include/wkhtmltox/dllend.inc
 ../native_files/napi_wkhtmltopdf_binding.cpp:
 /Users/clufter/Desktop/test/library/node_addon/node_modules/node-addon-api/napi.h:
@@ -19,6 +18,6 @@ Release/obj.target/wkhtmltopdf_addon/native_files/napi_wkhtmltopdf_binding.o: \
 /Users/clufter/Library/Caches/node-gyp/14.20.0/include/node/node_api_types.h:
 /Users/clufter/Desktop/test/library/node_addon/node_modules/node-addon-api/napi-inl.h:
 /Users/clufter/Desktop/test/library/node_addon/node_modules/node-addon-api/napi-inl.deprecated.h:
-/usr/local/include/wkhtmltox/pdf.h:
-/usr/local/include/wkhtmltox/dllbegin.inc:
+../native_files/pdf.h:
+../native_files/dllbegin.inc:
 /usr/local/include/wkhtmltox/dllend.inc:

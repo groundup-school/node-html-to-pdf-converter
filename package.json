@@ -1,10 +1,10 @@
 {
-  "name": "node_addon",
+  "name": "node-html-to-pdf-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node-gyp configure build",
+    "build": "node-gyp configure rebuild",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
